@@ -16,7 +16,7 @@ Aluno do curso de Ciências da Computação na **PUC Minas**
 ## Estatísticas do GitHub
 
 - 📑 **Commits Recentes:** 24
-- 🖥️ **Total de PRs:** 1
+- 🖥️ **Total de PRs:** 0
 - 🌱 **Contribuições no último ano:** 1
 
 ---
