@@ -16,7 +16,7 @@ Aluno do curso de Ciências da Computação na **PUC Minas**
 ## Estatísticas do GitHub
 
 - ⭐ **Total de Estrelas Ganhadas:** 3
-- 📑 **Commits Recentes:** 268
+- 📑 **Commits Recentes:** 29
 - 🖥️ **Total de PRs:** 1
 - 🐛 **Total de Issues:** 0
 - 🌱 **Contribuições no último ano:** 2
