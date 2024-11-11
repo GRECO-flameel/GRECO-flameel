@@ -15,9 +15,7 @@ Aluno do curso de Ciências da Computação na **PUC Minas**
 
 ## Estatísticas do GitHub
 
-- 📑 **Commits Recentes:** 24
-- 🖥️ **Total de PRs:** 0
-- 🌱 **Contribuições no último ano:** 1
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRECO-flameel&show_icons=true&theme=dark)
 
 ---
 
@@ -36,4 +34,4 @@ Este é um projeto focado em um site para facilitar o intermédio entre ONG's e 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRECO-flameel&show_icons=true&theme=dark)
+
