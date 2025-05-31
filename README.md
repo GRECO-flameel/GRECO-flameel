@@ -15,7 +15,7 @@ Aluno do curso de Ciências da Computação na **PUC Minas**
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GRECO-flameell&show_icons=true&theme=dark&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GRECO-flameell&layout=compact&theme=github_dark)
 
 ---
 
