@@ -1,37 +1,69 @@
-# Olá! Eu sou Matheus Greco
+# 👋 Olá, eu sou o Matheus!
 
-**`GRECO-flameel` 
-Aluno do curso de Ciências da Computação na **PUC Minas**  
-📍 **Belo Horizonte**
+🎯 Transformando curiosidade em código e ideias em projetos.
 
 ---
 
+## 🚀 Sobre mim
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge)](https://www.instagram.com/matheus_greco_/profilecard/?igsh=MXE4Z2psMmVrYjJndw==)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge)](https://wa.me/qr/RZBLXI3ZEIM5J1)
-[![Spotify](https://img.shields.io/badge/SPOTIFY-green?style=for-the-badge)](https://open.spotify.com/user/matheusgrecomd?si=9466367ceb6244a4)
-
----
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GRECO-flameell&layout=compact&theme=github_dark)
+* 🎓 Estudando **Ciências da Computação** na **PUC Minas**
+* 🌱 Interesses: **Desenvolvimento Web**, **Inteligência Artificial** e **Cybersegurança**
+* 🌎 Falo **Português** e **Inglês**
 
 ---
 
-## Um pouco mais sobre mim
+## 🧠 Tecnologias
 
-- 🎓 Estudando **Ciências da Computação** na **PUC Minas**
-- 🌱 Interesses: Desenvolvimento Web, Inteligência Artificial e Cybersegurança 
-- 🌎 Falo Português e Inglês
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,postgres,mysql,git,github,vscode" />
 
-## Projetos Destacados
-
-📌 [ti-1-pmg-cc-t-20241-fios-de-bondade](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-t-20241-fios-de-bondade)  
-Este é um projeto focado em um site para facilitar o intermédio entre ONG's e doadors de roupas
+</div>
 
 ---
 
+## 📊 Estatísticas
 
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GRECO-flameel&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRECO-flameel&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GRECO-flameel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧪 O que você vai encontrar aqui
+
+* 📚 Projetos da faculdade
+* 🌐 Aplicações web
+* 🤖 Experimentos com IA
+* 🔐 Estudos em segurança
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: *https://www.linkedin.com/in/matheus-greco-a4066025b?utm_source=share_via&utm_content=profile&utm_medium=member_android*
+* 📧 Email: *matheusgrecodallalba@gmail.com*
+
+---
+
+## ⚡ Pensamento
+
+> "Todo código é uma tentativa de entender o mundo — e todo erro é uma pista."
+
+---
+
+⭐ Se curtir algum projeto, deixa uma estrela!
